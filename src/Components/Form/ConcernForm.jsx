@@ -174,7 +174,7 @@ CX CONCERN: ${concern}
         </div>
 
         <footer className="footer-credit">
-          <p>Created by Josh Maglangit</p>
+          <p>Created by Mcquinley Josh Maglangit</p>
           <a href="https://github.com/mjoshWorks" target="_blank" rel="noopener noreferrer">
             <FaGithub className="github-icon" />
           </a>
